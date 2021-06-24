@@ -16,3 +16,11 @@ nav ul {
  nav ul li {
     display: inline-block;
  }
+
+ article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+     
+ }
